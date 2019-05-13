@@ -1,0 +1,18 @@
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\MazeApps® Transaction Verify.vbproj.GenerateResource.cache
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\MazeApps® Transaction Verify.vbproj.CoreCompileInputs.cache
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\MazeApps® Transaction Verify.vbprojResolveAssemblyReference.cache
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.MazeBank.resources
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form2.resources
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\bin\Debug\MazeApps® Transaction Verify.exe.config
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\bin\Debug\MazeApps® Transaction Verify.exe.manifest
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\bin\Debug\MazeApps® Transaction Verify.application
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\bin\Debug\MazeApps® Transaction Verify.exe
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\bin\Debug\MazeApps® Transaction Verify.pdb
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\bin\Debug\MazeApps® Transaction Verify.xml
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\MazeApps® Transaction Verify.exe.manifest
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\MazeApps® Transaction Verify.application
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\MazeApps® Transaction Verify.exe
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\MazeApps® Transaction Verify.xml
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\MazeApps® Transaction Verify.pdb
+C:\Users\Hase\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form3.resources
